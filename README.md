@@ -59,5 +59,8 @@
     ❖ User data after login is saved to localstorage when he/she logouts localstorage is removed
    
 ## Demo Video
-https://user-images.githubusercontent.com/95746772/179041936-6e191e70-0154-4909-8e9c-5f1b06b18531.mp4
+
+https://user-images.githubusercontent.com/95746772/179047504-aa248782-28e1-4fce-ab30-445d9c8b9c65.mp4
+
+
 
